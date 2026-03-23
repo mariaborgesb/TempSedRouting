@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 17 20:00:23 2024
-
-@author: haddadchia
-"""
-
-#%% calculate fall velocity
+#calculate fall velocity
 def fallvelocity (di):
     # function to calculate fall velocity using
     # input is sediment diameter in meter [m]
